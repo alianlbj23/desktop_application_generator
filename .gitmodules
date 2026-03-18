@@ -1,0 +1,9 @@
+[submodule "JoyBridge_CHAOKE"]
+	path = JoyBridge_CHAOKE
+	url = https://github.com/alianlbj23/JoyBridge_CHAOKE.git
+[submodule "pros_app"]
+	path = pros_app
+	url = https://github.com/oreohahaha520/pros_app.git
+[submodule "zlink-bus-servo-driver"]
+	path = zlink-bus-servo-driver
+	url = https://github.com/oreohahaha520/zlink-bus-servo-driver.git
